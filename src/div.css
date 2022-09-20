@@ -1,0 +1,42 @@
+.header{
+    background-color: white;
+    height:100px;
+    width:100%;
+    margin-bottom:50px;
+    display: inline-block;
+}
+.bodyc{
+    background-color: rgb(168, 223, 223);
+}
+a{
+    text-decoration: none;
+
+}
+.outerd
+{
+    border: 0px solid white;
+    background-color: white;
+    width:300px;
+    border-radius: 3px;
+    display:inline-block;
+    margin :30px;
+}
+.imag{
+    width:100%;
+    border-radius: 3px;
+}
+.h2p{
+    padding-left: 7px;
+    
+    
+}
+.headerb
+{
+    color: blue;
+    padding-top:25px;
+    padding-left:10px ;
+    font-size: 25px;
+}
+.selecty{
+    padding-left: 100px;
+}
